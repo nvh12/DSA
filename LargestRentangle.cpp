@@ -17,6 +17,7 @@ int histogram(vector<int> height) {
     }
     return temp;
 }
+
 int main() {
     int n, m;
     cin >> n >> m;
